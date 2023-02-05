@@ -67,6 +67,8 @@ Credits: Quora
 
 
 ## Observation
+This Observation on Cluster 1 region and there are 30 Cluster regions. To find all the forecasting just import the cluster file in coding block and you'll get the 
+predicted value.
 
 ![Observation](https://i.ibb.co/Gxrtw82/time-series.png)
 
