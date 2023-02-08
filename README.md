@@ -6,6 +6,8 @@ Time-series forecasting and Regression
 
 - To find number of pickups, given location cordinates(latitude and longitude) and time, in the query reigion and surrounding regions.
 
+## Analytics & Insights
+Visualization : https://public.tableau.com/app/profile/vaishno.kumar/viz/NewYorkTaxi_16758640727820/Dashboard1#1
 
 ## Data Information
 
